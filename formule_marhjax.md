@@ -39,7 +39,7 @@ $$a = (b+c)^{3x} - [3+6x]$$
 
 * Exemplu; *
 
-$$ a = \frac{(a+b^c)} $$
+$$ a = \frac{(a+b^c)} {7} $$
 
 # Semnele de multiplicare  si respectiv de diviziune
 
@@ -48,3 +48,7 @@ $$ a = \frac{(a+b^c)} $$
 $$ a = c + 10 \times X $$
 
 $$ a = c + 10 \cdot X $$
+
+** Exemplu;**
+
+$$ \sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
