@@ -52,3 +52,9 @@ $$ a = c + 10 \cdot X $$
 ** Exemplu;**
 
 $$ \sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+
+# Integrale 
+
+** eXEMPLU**
+
+$$ \int_0^1 x^4 dx $$
