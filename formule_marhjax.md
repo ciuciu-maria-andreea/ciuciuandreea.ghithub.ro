@@ -58,3 +58,11 @@ $$ \sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
 ** eXEMPLU**
 
 $$ \int_0^1 x^4 dx $$
+
+# Scrierea matricelor
+
+$$
+\begin{pmatrix}
+a_{11} & a_{12} & a_{13} \\
+a_{21} & a_{22} & a_{23} \\ 
+
